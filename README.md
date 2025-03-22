@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# BrainAFK
-BrainAFK is a simple automation tool that generates aim, algorithm, and conclusion for C programs, allowing students to complete their DS records without manual effort. By leveraging LangChain and Streamlit, it takes a given C code as input and automatically structures the required documentation.
-=======
 # BrainAFK - Langchain Project 🤖  
 ### ✍️ Write DS Records Mindlessly!  
 
