@@ -20,9 +20,6 @@ graph TD;
 ## 🤡 Why This Exists?
 Made this project to get used to LangChain
 
-## 🛠 Requirements  
-- **Python 3.x**  
-- **Streamlit** (`pip install streamlit`)  
 
 ## 🏗 Installation  
 ```sh
